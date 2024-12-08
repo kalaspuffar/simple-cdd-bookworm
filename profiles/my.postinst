@@ -1,0 +1,3 @@
+mkdir -p /home/woden/.ssh
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB0Tc3ZRFIyMzpHtAtflRWNncVeT8UPAxaydjTTqRFd6 woden@unassigned" >> /home/woden/.ssh/authorized_keys
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO1fOWnpCjtf3puLbfPzYyWBxQNF3vzaDgu3X+4gp02m mailto.woden@gmail.com" >> /home/woden/.ssh/authorized_keys
